@@ -1,0 +1,6 @@
+File was deleted
+Alert\s+Level\x3a\s(\d+)\x3b\s+Rule\x3a\s+(\d+)\s+\x2d+\s(.*?)\x3b\s+Location\x3a\s+(?:\x28(.*?)\x29)?(?:\s+?([0-9\x2e]*))?(?:[^(?:\x2d\x3e)]+)?\x2d\x3e(syscheck)\x3b\s+classification\x3a\s+(.*?)\x3b\s+File\s+\x27([^\x27]+)\x27\s+was\s+deleted\x2e\s+Unable\s+to\s+retrieve\s+checksum
+
+
+File was added
+Alert\s+Level\x3a\s(\d+)\x3b\s+Rule\x3a\s+(\d+)\s+\x2d+\s(.*?)\x3b\s+Location\x3a\s+(?:\x28(.*?)\x29)?(?:\s+?([0-9\x2e]*))?(?:[^(?:\x2d\x3e)]+)?\x2d\x3e(syscheck)\x3b\s+classification\x3a\s+(.*?)\x3b\s+New\s+file\s+\x27([^\x27]+)\x27\s+added\s+to\s+the\s+file\s+system
